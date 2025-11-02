@@ -1,0 +1,7 @@
+{
+  "name": "OrderFlow Pro",
+  "description": "An elegant order management system for users to submit requests and for administrators to review, approve, and manage them efficiently, featuring AI-powered customer notifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
